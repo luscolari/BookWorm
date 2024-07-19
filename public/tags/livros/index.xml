@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livros on Ninho das Bookworms</title>
+    <link>//localhost:1313/tags/livros/</link>
+    <description>Recent content in Livros on Ninho das Bookworms</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2024 21:37:32 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/livros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Olá</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Sun, 14 Jul 2024 21:37:32 -0300</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>Olá, mundo! Por enquanto sou uma estudante de Ciência da Computação na PUCRS que tem muito a aprender sobre o munndo da tecnologia. No entanto, uma parte de mim sempre foi apaixonada por livro e é por isso que estou aqui.&#xA;Já faz muito tempo que eu pensei na possibilidade em criar um blog para escrever sobre aquilo que penso dos livros que leio. A minha opinião sincera sobre eles.</description>
+    </item>
+  </channel>
+</rss>
