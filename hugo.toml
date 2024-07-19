@@ -1,0 +1,47 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Ninho das Bookworms'
+theme = 'dream'
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+
+images = ["/themes/dream/static/img/default4.jpg"]
+ 
+author = "Luísa Scolari"
+description = "luísa scolari"
+avatar = "/img/aa.jpg"
+headerTitle = "Luísa Scolari"
+motto = "não consigo viver sem livros"
+
+rss = true
+
+utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+valine = true
+LEANCLOUD_APP_ID = ""
+LEANCLOUD_APP_KEY = ""
+# VALINE_LANGUAGE = ""
+
+email = "luscolari05@gmail.com"
+
+siteStartYear = 2024
+
+favicon = "favicon.ico"
+
+# Syntax highlighting
+customSyntaxHighlighting = true
+
+#options
+stickyNav = true
+showSummaryCoverInPost = true
+# hasTwitterEmbed = true
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+[params.experimental]
+jsDate = true
+ jsDateFormat = "yyyy/MM/dd"
